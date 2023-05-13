@@ -57,11 +57,9 @@ They were spending 2 month for implementing a simple table which would only take
  
 Low-code/No-code tools offer similar capacity in terms of reducing development cost.  
 
-My product takes *remove-code* approach, where it effectively removes the need of engaging in the production al-together.  
-
+My product takes *remove-code* approach, where it effectively removes the need to engage in the interface production all together.  
 
 2. Frontend engineers   
-They can conduct proper task analysis and produce pretty GUI interface.  
 
 We can compete with them because, 
 - a. It can substantially reduce the cost of development  
@@ -73,8 +71,10 @@ We can compete with them because,
     it actually does.  
     Since the product generates it's GUI from function signature and schema definitions, dev team can quickly identify which function does what.
 
+They can conduct proper task analysis and produce pretty GUI interface; To clarify, I do not aim to replace them on these context-specific tasks.
 
-3. Open Source Tools. e.g. Open API, Smithy ...etc    
+
+1. Open Source Tools. e.g. Open API, Smithy ...etc    
 The aim of my product is to increase the number of things that you can do with code-generation. They may just adopt my idea to their project.
 
 I believe we can survive by supporting exotic languages like COBOL or sell the company before it happens.
