@@ -14,4 +14,4 @@ https://interx-labs.com/citibank-500milliondollarerror-interactiondesign/
 ## b. Coherent GUI & Speed Up Development
 You no longer need to write GUI. GUI doesn't look the prettiest but it is prettier than randomly copy and pasted code.
 
-Furthermore, you will get a coherent design; since you can specify what the thing is going to look like 
+Furthermore, you will get a coherent design, as the design is handled by the product.
