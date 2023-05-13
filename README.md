@@ -70,7 +70,7 @@ We can compete with them because,
 1. Open Source Tools. e.g. Open API, Smithy ...etc  
 The aim of my product is to increase the number of things that you can do with code-generation. They may just adopt my idea to their project.
 
-I believe we can survive by supporting exotic languages like COBOL or sell it before it happens.
+I believe we can survive by supporting exotic languages like COBOL or sell the company before it happens.
 
 ## How do or will you make money? How much could you make? 
 1. Consultation  
