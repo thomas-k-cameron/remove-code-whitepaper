@@ -11,7 +11,7 @@ E.g. You have a Open API definition written in JSON, this is for your internal t
 
 ## Use Case
 ### Development Cost
-By automating GUI/Logic mapping, it allows developers from writing redundant code.
+By automating GUI/Logic mapping, it frees developers from writing redundant code.
 Additionally, teams developing GUI primary by copy-and-pasting (trust me, it happens a lot), can stop doing it.
 
 ### UI Modernalization
