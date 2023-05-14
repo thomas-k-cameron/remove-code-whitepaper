@@ -1,14 +1,48 @@
 # What am I going to build
 My product generates GUI from function signature and/or schema definition.
 
+It looks like this.
+
 E.g.  You write a smart contract for Ethereum in solidity, you give the solidity code to my product and you end up with desktop software and CLI app that can invoke the contract, log the request parameters and the response.
 
-E.g. You write a python code, which my product will automatically parses it to 
+E.g. You wrote a python code but it doesn't work with  My software automatically generates the GUI interface for it.
+
+E.g. You have a Open API definition written in JSON, this is for your internal tools. You want to create a desktop software and/or GUI with it. Instead of 
+
+## Use Case
+### Development Cost
+By automating GUI/Logic mapping, it allows developers from writing redundant code.
+Additionally, teams developing GUI primary by copy-and-pasting (trust me, it happens a lot), can stop doing it.
+
+### UI Modernalization
+Say you have some software written in C, Java or whatever that comes with antiquated UI, this product generate pretty UI on the fly.
+
+### Continuous UI Upgrade
+Decomissioning of Internet Explorer turned out to be an expensive, time consuming project for many organization.  
+This product can continously upgrade the UI, keeping the software up-to-date with the best design standards.
+
+## Competitors (includes potential competitors)
+### vs ReTool
+Unlike, ReTool, our product,
+1. Can be used for UI modernization e.g. COBOR
+2. Works directly with the programming language or the existing schema definition (i.e. Works with the existing tech debt)
+3. Maps underlying logic to user interface
+4. You can plug it into the CI/DC pipeline
+
+### vs Frontend Engineers
+This product is, faster and cheaper.
+It cannot conduct task analysis or context specific GUI development, however, this is not the field we want to compete.
+
+## Case Study
+### Citi Bank mistakenly sends 900 million USD instead of 7.8 million thanks to terrible UI 
+https://interx-labs.com/citibank-500milliondollarerror-interactiondesign/
+
+Reportedly, Citibank's internal software had one of the most confusing UI, which is cited as the primary cause of the incident.
+
+My product can generate clearner UI, thus, preventing such incident to happen.
 
 ## Use Case and Merits
-### a. Interface Modernization
-Say you want to modernize/improve the software's interface.
-
+### a. UI Modernization
 Many in-house software ends up lacking the technical documentations necessary to understand the implementation. When you want to find out about the software, company needs to spend a lot of time on salvaging documents about what they had built in the past. 
 Thanks to budget constraints, company will not move forward with the project and users will be forced to work on antiquated/weird UI.
 
@@ -18,7 +52,7 @@ Not only this improves the productivity, it also save company from potential los
 E.g. Citibank sent 900 Million USD instead of 7.8 Million USD thanks to bad UI design.
 https://interx-labs.com/citibank-500milliondollarerror-interactiondesign/
 
-### b. Coherent GUI & Speed Up Development
+### b. Coherent GUI & Faster Development
 You no longer need to write GUI. GUI doesn't look the prettiest but it is prettier than randomly copy and pasted code.
 
 Furthermore, you will get a coherent design, as the design is handled by the product.
