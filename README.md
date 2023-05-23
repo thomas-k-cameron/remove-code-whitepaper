@@ -11,6 +11,15 @@ It looks like this.
 
 ![adsf](https://github.com/thomas-k-cameron/remove-code-whitepaper/blob/main/Web%20%E3%82%AD%E3%83%A3%E3%83%97%E3%83%81%E3%83%A3_22-5-2023_15739_localhost.jpeg)
 
+Or maybe,
+1. This solidity code
+
+![adsf](https://github.com/thomas-k-cameron/remove-code-whitepaper/blob/main/output.png)
+
+2. Into this GUI
+
+![asdf](https://github.com/thomas-k-cameron/remove-code-whitepaper/blob/main/Web%20%E3%82%AD%E3%83%A3%E3%83%97%E3%83%81%E3%83%A3_23-5-2023_13740_localhost.jpeg)
+
 E.g.  You write a smart contract for Ethereum in solidity, you give the solidity code to my product and you end up with desktop software and CLI app that can invoke the contract, log the request parameters and the response.
 
 E.g. You wrote a python code but you don't want to learn HTML/CSS/Javascript or C#/WPF for GUI. My software automatically generates the GUI interface for it.
@@ -32,7 +41,7 @@ This product can continously upgrade the UI, keeping the software up-to-date wit
 This product can compete because,
 - Does not require human interaction at all
 - Maps undelrying logic to user interface which gives coherent UI to users
-
+- Technical implementation allows us to 
 This product cannot compete when user is looking for tailor made UI that is specific to the context.
 For example
 - Users want to create tailor made experience with exotic design e.g. Video game UI that is integrated into the 3d world
