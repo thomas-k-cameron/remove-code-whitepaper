@@ -1,7 +1,15 @@
 # What am I going to build
-My product generates GUI from function signature and/or schema definition.
+My product generates GUI from function signature and/or schema definition.  
+The goal is to remove the need of frontend engineer and/or frontned code entirely.
 
 It looks like this.
+1. The python code
+
+![adsf](https://github.com/thomas-k-cameron/remove-code-whitepaper/blob/main/python.png)
+
+2. Into this GUI
+
+![adsf](https://github.com/thomas-k-cameron/remove-code-whitepaper/blob/main/Web%20%E3%82%AD%E3%83%A3%E3%83%97%E3%83%81%E3%83%A3_22-5-2023_15739_localhost.jpeg)
 
 E.g.  You write a smart contract for Ethereum in solidity, you give the solidity code to my product and you end up with desktop software and CLI app that can invoke the contract, log the request parameters and the response.
 
